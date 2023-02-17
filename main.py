@@ -1,2 +1,3 @@
-for i in range(10):
-    print('hello world')
+from constants import x, y
+
+print(x + y)
