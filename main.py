@@ -1,7 +1,7 @@
 import time
 
 for i in range(10):
-    print(i)
+    print('I am super cool')
     time.sleep(1)
     
     
